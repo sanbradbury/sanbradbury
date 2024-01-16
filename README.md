@@ -1,4 +1,4 @@
-![Header](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![Header](https://za.pinterest.com/pin/1082060247946445559/)
 
 <h1 align="center">Hi 👋, I'm Santana Bradbury</h1>
 <h3 align="center">Passionate 3rd Year Software Engineering Student | Python Enthusiast | Web & App Developer in the Making 🚀</h3>
@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanbradbury&label=Profile%20views&color=0e75b6&style=flat" alt="sanbradbury" /> </p>
 
-- 🔭 I’m currently working on **personal Project: Workout Log**
+- 🔭 I’m currently working on **Personal Project: Workout Log**
 
 - 🌱 I’m currently learning **React Native**
 
