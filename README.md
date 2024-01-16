@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Santana Bradbury</h1>
 <h3 align="center">Passionate 3rd Year Software Engineering Student | Python Enthusiast | Web & App Developer in the Making 🚀</h3>
-<img align="right" alt="Coding" width="300" src="https://https://i.pinimg.com/originals/0c/34/27/0c34272909ee2a4db5606a014082312b.gif">
+<img align="right" alt="Coding" width="300" src="https://gifdb.com/images/high/scrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanbradbury&label=Profile%20views&color=0e75b6&style=flat" alt="sanbradbury" /> </p>
 
