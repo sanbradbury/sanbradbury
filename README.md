@@ -1,8 +1,8 @@
-![Header](https://miro.medium.com/v2/resize:fit:828/format:webp/1*O9pYXOq8roaoJsVzBdH_OQ.jpeg)
+![Header](https://d2rjvl4n5h2b61.cloudfront.net/media/images/Coding.2e16d0ba.fill-1280x350-c100.jpg)
 
 <h1 align="center">Hi 👋, I'm Santana Bradbury</h1>
 <h3 align="center">Passionate 3rd Year Software Engineering Student | Python Enthusiast | Web & App Developer in the Making 🚀</h3>
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
+<img align="right" alt="Coding" width="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F643451865504790507%2F&psig=AOvVaw1NnZBgFTdk1dM1CCowOLPH&ust=1705479076239000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLj6yN664YMDFQAAAAAdAAAAABAD">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanbradbury&label=Profile%20views&color=0e75b6&style=flat" alt="sanbradbury" /> </p>
 
