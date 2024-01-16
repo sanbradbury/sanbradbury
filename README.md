@@ -1,4 +1,4 @@
-![Header](https://za.pinterest.com/pin/1082060247946445559/)
+![Header](https://miro.medium.com/v2/resize:fit:828/format:webp/1*O9pYXOq8roaoJsVzBdH_OQ.jpeg)
 
 <h1 align="center">Hi 👋, I'm Santana Bradbury</h1>
 <h3 align="center">Passionate 3rd Year Software Engineering Student | Python Enthusiast | Web & App Developer in the Making 🚀</h3>
