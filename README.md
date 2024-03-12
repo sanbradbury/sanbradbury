@@ -1,7 +1,7 @@
 ![Header](https://d2rjvl4n5h2b61.cloudfront.net/media/images/Coding.2e16d0ba.fill-1280x350-c100.jpg)
 
 <h1 align="center">Hi 👋, I'm Santana Bradbury</h1>
-<h3 align="center">Passionate 3rd Year Software Engineering Student | Python Enthusiast | Web & App Developer in the Making 🚀</h3>
+<h3 align="center">Passionate Software Engineering Graduate | Python Enthusiast | Web & App Developer in the Making 🚀</h3>
 <img align="right" alt="Coding" width="300" src="https://gifdb.com/images/high/scrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanbradbury&label=Profile%20views&color=0e75b6&style=flat" alt="sanbradbury" /> </p>
